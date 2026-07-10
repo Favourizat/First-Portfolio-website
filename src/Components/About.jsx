@@ -1,4 +1,4 @@
-import about from "../constants/about";
+import about from "../constants/About";
 import highlights from "../constants/highlights";
 
 const About = () => {

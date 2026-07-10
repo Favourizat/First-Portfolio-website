@@ -8,19 +8,19 @@ const Navbar = () => {
           Portfolio | Iwuoha Favour
         </h1>
         <ul className="hidden md:flex items-center gap-8">
-            {navigation.map((item) => (
-        <li key={item.id}>
-          <a
-            href={`#${item.link}`}
-            className="text-gray-300 hover:text-blue-500 transition-colors duration-300"
-          >
-            {item.title}
-          </a>
-        </li>
+          {navigation.map((item) => (
+            <li key={item.id}>
+              <a
+                href={`#${item.link}`}
+                className="text-gray-300 hover:text-blue-500 transition-colors duration-300"
+              >
+                {item.title}
+              </a>
+            </li>
           ))}
         </ul>
       </div>
-    </nav>    
+    </nav>
   );
 };
 

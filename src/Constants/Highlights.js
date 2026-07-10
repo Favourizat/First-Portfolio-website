@@ -1,8 +1,8 @@
-const highlights = [
+const Highlights = [
   "Responsive Design",
   "Modern UI",
   "Clean Code",
   "React Ecosystem",
 ];
 
-export default highlights;
+export default Highlights;
