@@ -1,4 +1,3 @@
-
 import profile from "../constants/profile";
 
 const Hero = () => {
