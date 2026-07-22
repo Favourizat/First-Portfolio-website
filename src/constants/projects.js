@@ -1,30 +1,56 @@
 const projects = [
   {
     id: 1,
-    title: "xora-saas-landing-page",
+    title: "Lala-brand",
 
-    image: "/projects/xora-site.png",
+    image: "/projects/Lala-brand.png",
 
     description:
-      "A responsive SaaS landing page developed with React and Tailwind CSS, featuring reusable components, modern UI patterns, and a polished user experience.",
+      "A responsive e-commerce website built with React and Tailwind CSS, featuring product listings, category filtering, shopping cart functionality, and a seamless user experience across desktop and mobile devices.",
 
     technologies: [
       "React",
       "Vite",
       "Tailwind CSS",
       "JavaScript (ES6+)",
+      "React Router",
+      "Context API",
       "Git & GitHub",
-      "Vercel",
-      "Framer Motion"
+      "Vercel"
     ],
 
-    github: "https://github.com/Favourizat/xora-saas-landing-page.git",
+    github: "https://github.com/Favourizat/Lala-Brand.git",
 
-    live: "https://xora-saas-landing-page-one.vercel.app/",
+    live: "https://lala-brand.vercel.app/",
   },
 
   {
-    id: 2,
+    id: 1,
+    title: "moviela-movie-search-app",
+
+    image: "/projects/Moviela.png",
+
+    description:
+      "A responsive movie discovery application built with React and Tailwind CSS, allowing users to search movies, view detailed information, manage favorites, and authenticate securely using Firebase.",
+
+    technologies: [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "JavaScript (ES6+)",
+      "React Router",
+      "Firebase Authentication",
+      "TMDB API",
+      "Git & GitHub",
+      "Vercel"
+    ],
+    github: "https://github.com/Favourizat/Moviela.git",
+
+    live: "https://moviela-weld.vercel.app/",
+  },
+  
+    {
+    id: 3,
 
     title: "VastuSpaze",
 
@@ -44,6 +70,34 @@ const projects = [
     github: "https://github.com/Favourizat/VastuSpaze.git",
 
     live: "https://vastu-spaze-t4py.vercel.app",
+  },
+  {
+    id: 4,
+
+    title: "Save-smart",
+
+    image: "/projects/save-smart.png",
+
+    description:
+      "A smart savings app that helps you build wealth effortlessly by automatically saving your spare change with every purchase.",
+
+    technologies: [
+      "React.js",
+      "Vite", 
+      "Tailwind CSS",
+      "JavaScript (ES6+) ",
+      "JSX",
+      "React Icons", 
+      "HTML5",
+      "CSS3",
+      "Git",
+      "GitHub",
+      "Vercel",
+    ],
+
+    github: "https://github.com/Favourizat/savesmart.git",
+
+    live: "https://savesmart-tau.vercel.app/",
   },
 ]
 
