@@ -1,3 +1,5 @@
+import React from "react";
+
 const projects = [
   {
     id: 1,
@@ -29,7 +31,37 @@ const projects = [
 
     live: "https://livewell-red.vercel.app/",
   },
-  
+
+  {
+    id: 1,
+    title: "TripSphere",
+
+    image: "/projects/TripSphere-Portfolio.png",
+
+    description:
+      "A responsive travel booking website built with React, Tailwind CSS, featuring holiday packages, popular destinations, flight and hotel search, tour details, booking functionality, and a seamless experience across desktop and mobile devices.",
+
+    technologies: [
+      "React.js",
+      "JavaScript(ES6 +)",
+      "Vite",
+      "Tailwind CSS",
+      "React",
+      "Lucide React",
+      "React Icons",
+      "React Toastify",
+      "EmailJS",
+      "Git",
+      "GitHub",
+      "React Router",
+      "Vercel",
+    ],
+
+    github: "https://github.com/Favourizat/TripSphere.git",
+
+    live: "https://trip-sphere-vert.vercel.app/",
+  },
+
   {
     id: 3,
     title: "moviela-movie-search-app",
