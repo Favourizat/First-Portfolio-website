@@ -22,7 +22,7 @@ const Projects = () => {
                     grid
                     md:grid-cols-2
                     gap-10
-                    mt-16
+                    mt-19
                 ">
                     {projects.map((project) => (
                         <ProjectCard

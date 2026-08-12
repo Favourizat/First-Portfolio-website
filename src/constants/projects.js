@@ -1,31 +1,37 @@
 const projects = [
   {
     id: 1,
-    title: "Lala-brand",
+    title: "Livewell",
 
-    image: "/projects/Lala-brand.png",
+    image: "/projects/Livewell-portfolio-picture.png",
 
     description:
-      "A responsive e-commerce website built with React and Tailwind CSS, featuring product listings, category filtering, shopping cart functionality, and a seamless user experience across desktop and mobile devices.",
+      "A responsive real estate website built with React, Tailwind CSS, and Firebase, featuring property listings, detailed property pages, user authentication, favorites, and a seamless experience across desktop and mobile devices.",
 
     technologies: [
       "React",
       "Vite",
-      "Tailwind CSS",
       "JavaScript (ES6+)",
+      "Tailwind CSS",
       "React Router",
-      "Context API",
-      "Git & GitHub",
+      "Firebase",
+      "Firebase Authentication",
+      "EmailJS",
+      "React Toastify",
+      "React Icons",
+      "Lucide React",
+      "Git",
+      "GitHub",
       "Vercel"
     ],
 
-    github: "https://github.com/Favourizat/Lala-Brand.git",
+    github: "https://github.com/Favourizat/Livewell.git",
 
-    live: "https://lala-brand.vercel.app/",
+    live: "https://livewell-red.vercel.app/",
   },
-
+  
   {
-    id: 1,
+    id: 3,
     title: "moviela-movie-search-app",
 
     image: "/projects/Moviela.png",
@@ -48,9 +54,9 @@ const projects = [
 
     live: "https://moviela-weld.vercel.app/",
   },
-  
-    {
-    id: 3,
+
+  {
+    id: 4,
 
     title: "VastuSpaze",
 
@@ -72,7 +78,7 @@ const projects = [
     live: "https://vastu-spaze-t4py.vercel.app",
   },
   {
-    id: 4,
+    id: 5,
 
     title: "Save-smart",
 
@@ -83,11 +89,11 @@ const projects = [
 
     technologies: [
       "React.js",
-      "Vite", 
+      "Vite",
       "Tailwind CSS",
       "JavaScript (ES6+) ",
       "JSX",
-      "React Icons", 
+      "React Icons",
       "HTML5",
       "CSS3",
       "Git",
