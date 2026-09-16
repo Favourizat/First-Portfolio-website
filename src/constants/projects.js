@@ -117,28 +117,28 @@ const projects = [
     live: "https://moviela-weld.vercel.app/",
   },
 
-  {
-    id: 4,
+  // {
+  //   id: 4,
 
-    title: "VastuSpaze",
+  //   title: "VastuSpaze",
 
-    image: "/projects/VastuSpaze.png",
+  //   image: "/projects/VastuSpaze.png",
 
-    description:
-      "A responsive construction company website built to highlight services, projects, and brand credibility with a modern layout and user-focused design",
+  //   description:
+  //     "A responsive construction company website built to highlight services, projects, and brand credibility with a modern layout and user-focused design",
 
-    technologies: [
-      "React",
-      "Tailwind CSS",
-      "Vite",
-      "Git & GitHub",
-      "Vercel"
-    ],
+  //   technologies: [
+  //     "React",
+  //     "Tailwind CSS",
+  //     "Vite",
+  //     "Git & GitHub",
+  //     "Vercel"
+  //   ],
 
-    github: "https://github.com/Favourizat/VastuSpaze.git",
+  //   github: "https://github.com/Favourizat/VastuSpaze.git",
 
-    live: "https://vastu-spaze-t4py.vercel.app",
-  },
+  //   live: "https://vastu-spaze-t4py.vercel.app",
+  // },
  
 ]
 
