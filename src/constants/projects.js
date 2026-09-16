@@ -3,6 +3,36 @@ import React from "react";
 const projects = [
   {
     id: 1,
+    title: "LUMÉA",
+
+    image: "/Lumea-photo1.png",
+
+    description:
+      "A responsive skincare ecommerce website built with Next.js, Tailwind CSS, MongoDB, and Paystack, featuring product browsing, category filtering, product detail pages, wishlist and cart functionality, secure user authentication, checkout, and online payments. LUMÉA provides a seamless and modern shopping experience across desktop and mobile devices, with persistent cart and wishlist data and a secure backend for managing products and customer orders",
+    technologies: [
+      "Next.js",
+      "React",
+      "JavaScript (ES6+)",
+      "Tailwind CSS",
+      "Next.js App Router",
+      "MongoDB",
+      "Mongoose",
+      "NextAuth.js",
+      "Paystack",
+      "React Icons",
+      "Lucide React",
+      "Git",
+      "GitHub",
+      "Vercel"
+    ],
+
+    github: "https://github.com/Favourizat/LUM-A.git",
+
+    live: "https://lumeabrand.vercel.app/",
+  },
+
+  {
+    id: 2,
     title: "Livewell",
 
     image: "/projects/Livewell-portfolio-picture.png",
@@ -33,7 +63,7 @@ const projects = [
   },
 
   {
-    id: 1,
+    id: 3,
     title: "TripSphere",
 
     image: "/projects/TripSphere-Portfolio.png",
@@ -63,7 +93,7 @@ const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "moviela-movie-search-app",
 
     image: "/projects/Moviela.png",
@@ -109,34 +139,7 @@ const projects = [
 
     live: "https://vastu-spaze-t4py.vercel.app",
   },
-  {
-    id: 5,
-
-    title: "Save-smart",
-
-    image: "/projects/save-smart.png",
-
-    description:
-      "A smart savings app that helps you build wealth effortlessly by automatically saving your spare change with every purchase.",
-
-    technologies: [
-      "React.js",
-      "Vite",
-      "Tailwind CSS",
-      "JavaScript (ES6+) ",
-      "JSX",
-      "React Icons",
-      "HTML5",
-      "CSS3",
-      "Git",
-      "GitHub",
-      "Vercel",
-    ],
-
-    github: "https://github.com/Favourizat/savesmart.git",
-
-    live: "https://savesmart-tau.vercel.app/",
-  },
+ 
 ]
 
 export default projects;
