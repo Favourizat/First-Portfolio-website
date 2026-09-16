@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "LUMÉA",
 
-    image: "/LUMEA-Portfolio-photo.png",
+    image: "/projects/LUMEA-Portfolio-photo.png",
 
     description:
       "A responsive skincare ecommerce website built with Next.js, Tailwind CSS, MongoDB, and Paystack, featuring product browsing, category filtering, product detail pages, wishlist and cart functionality, secure user authentication, checkout, and online payments. LUMÉA provides a seamless and modern shopping experience across desktop and mobile devices, with persistent cart and wishlist data and a secure backend for managing products and customer orders",
