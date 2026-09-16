@@ -38,7 +38,7 @@ const projects = [
     image: "/projects/Livewell-portfolio-picture.png",
 
     description:
-     "A responsive real estate website built with React, Tailwind CSS, and Firebase, designed to provide a smooth and intuitive property discovery experience. The platform features dynamic property listings, detailed property pages, property search and filtering, user authentication, and a favorites system that allows users to save properties for easy access. It also includes responsive layouts and reusable components to ensure a consistent experience across desktop, tablet, and mobile devices. Firebase is integrated for authentication and data management, while the modern UI focuses on clear navigation, accessibility, and an engaging property browsing experience.",
+     "A responsive real estate website built with React, Tailwind CSS, and Firebase, designed to provide a smooth and intuitive property discovery experience. The platform features dynamic property listings, detailed property pages, property search and filtering, user authentication, and a favorites system that allows users to save properties for easy access. It also includes responsive layouts and reusable components to ensure a consistent experience across desktop, tablet, and mobile devices.",
     technologies: [
       "React",
       "Vite",
