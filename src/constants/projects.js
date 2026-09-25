@@ -62,7 +62,7 @@ const projects = [
 
     github: "https://github.com/Favourizat/mare-vista",
 
-    live: "https://mare-vista-oq888lh4o-favouriza.vercel.app/",
+    live: "https://mare-vista.vercel.app/",
   },
 
   {
