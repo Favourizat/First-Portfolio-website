@@ -36,11 +36,11 @@ const projects = [
 
     image: "/projects/mare-vista-portfolio-image.png",
 
-    Description:
+    description:
 
-      "A responsive luxury hotel booking website built with Next.js, React, Tailwind CSS, MongoDB, and Paystack, featuring room browsing, category filtering, room detail pages, real-time room availability checking, guest booking, additional hotel services, secure user authentication, booking management, and online payments. Maré Vista provides a seamless and elegant booking experience across desktop and mobile devices, with a complete reservation workflow, payment verification, booking confirmation, and a secure backend for managing users and reservations.",
+      "A responsive luxury hotel booking website built with Next.js, React, Tailwind CSS, MongoDB, and Paystack, featuring room browsing, category filtering, room detail pages, real-time room availability checking, guest booking, additional hotel services, secure user authentication, booking management, and online payments. Maré Vista provides a seamless booking experience across all devices, with a complete reservation workflow, and payment verification.",
 
-    Technologies:
+    technologies:
 
       [
         "Next.js",
