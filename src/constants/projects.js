@@ -30,8 +30,35 @@ const projects = [
 
     live: "https://lumeabrand.vercel.app/",
   },
+
   {
     id: 2,
+    title: "ParagonPlusCare",
+
+    image: "/projects/paragonpluscare.png",
+
+    description:
+      "A responsive healthcare and care website designed to provide patients and service users with accessible information and a seamless digital experience. Built as part of a collaborative development team using modern frontend technologies alongside PHP and Laravel, the platform delivers responsive interfaces, intuitive navigation, structured service information, and user-focused functionality across desktop, tablet, and mobile devices.",
+
+    technologies: [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "PHP",
+      "Laravel",
+      "Git",
+      "GitHub"
+    ],
+    github: "https://github.com/Hydrogensh/paragonpluscare.git",
+    live: "https://paragonpluscare.co.uk/",
+  },
+
+
+  {
+    id: 3,
     title: "Maré Vista",
 
     image: "/projects/mare-vista-portfolio-image.png",
@@ -66,7 +93,7 @@ const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Livewell",
 
     image: "/projects/Livewell-portfolio-picture.png",
